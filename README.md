@@ -1,18 +1,41 @@
-# 💫 About Me:
-👨‍💻 About Me<br><br>🎓 Master’s student in Artificial Intelligence<br><br>🔭 Passionate about Large Language Models (LLMs) and Multi-Agent Systems<br><br>🌱 Currently exploring Generative AI, Natural Language Processing, and modern AI architectures<br><br>🤝 Open to collaboration on research and applied projects in AI and Machine Learning<br><br>⚡ Strong believer in the future of collaborative intelligent systems
+# Hi, I'm Ali Rezapour 👋
 
+**AI Engineer | Applied LLM & RAG | Machine Learning**
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arman.rp) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-rezapour-14339a320) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arman.slayer1@gmail.com) 
+I hold a Master's degree in Computer Science (Artificial Intelligence). I enjoy building practical AI systems, especially applications involving Large Language Models, Retrieval-Augmented Generation (RAG), and Natural Language Processing.
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Arman-rp&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Arman-rp&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arman-rp&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+- 🔭 Interested in **Applied AI, LLM applications, RAG, and NLP**
+- 🧠 Experience building document-based RAG pipelines and working with local models using **Ollama**
+- 🛠️ Worked on data preparation, chunking, embeddings, prompt design, model selection, and API integration
+- 📊 Familiar with machine learning, deep learning, data analysis, and scientific computing
+- 🤝 Open to collaborating on practical AI/ML projects
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Arman-rp&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+## Featured Projects
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### [PDE Solutions with the Eagle Metaheuristic](https://github.com/Ali-Rzp/PDE)
+Research project exploring the use of the Eagle metaheuristic to solve differential-equation problems by transforming them into optimization tasks. Evaluated across multiple equations and compared with other metaheuristic algorithms.
+
+### [Fake News Detection with Bi-LSTM](https://github.com/Ali-Rzp/-fake-news-detection-using-bilstm)
+A deep-learning project applying Bidirectional LSTM models to fake-news classification using two datasets. The first dataset achieved approximately **97.5% accuracy**.
+
+### Applied RAG Systems
+Developed RAG-based chatbot components for an ERP environment, including document preprocessing, chunking, embedding selection, retrieval pipeline design, prompt engineering, and API integration. Used local models with Ollama to support privacy-conscious, offline-oriented deployment.  
+*This was professional project experience; the repository is private.*
+
+## Technical Skills
+
+**Languages & Data:** Python, SQL, NumPy, Pandas  
+**AI & Machine Learning:** Machine Learning, Deep Learning, NLP, LLMs, Embeddings, RAG  
+**Tools & Frameworks:** PyTorch, TensorFlow, scikit-learn, Ollama, Git, GitHub  
+**Other:** Data Cleaning, Data Visualization, Prompt Engineering, Model Evaluation
+
+## Connect
+
+- 🌐 **Portfolio:** [ali-rezapour.vercel.app](https://ali-rezapour.vercel.app/)
+- 💼 **LinkedIn:** [Ali Rezapour](https://linkedin.com/in/ali-rezapour-14339a320)
+- 🐙 **GitHub:** [@Ali-Rzp](https://github.com/Ali-Rzp)
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ali-Rzp&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Rzp&layout=compact&theme=tokyonight&hide_border=true)
